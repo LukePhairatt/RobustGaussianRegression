@@ -1,3 +1,9 @@
+% =========================================================== %
+%   Copyright by P.Phairatt, 8 June 2011,16.44pm              %
+%                   Update 23/01/12                           %
+%            Automated defect detection                       %
+% =========================================================== %
+
 % 3D- Robust Gaussian 2 zero order
 % Optimise speed with FFT Convolution on GPU!
 % -------------------------------------------------- %
