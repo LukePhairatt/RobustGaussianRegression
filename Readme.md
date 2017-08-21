@@ -11,7 +11,7 @@
 
 # **Overview**
 Algorithm for micro defect detections. The core idea is to use RGR to re-engineer the nominal surface form for thresholding.  
-The binary surface residuals can then be detected using convention image processing techniques. [(RGR FFT)](RGR)
+The binary surface residuals can then be detected using convention image processing techniques. ![RGR FFT][RGR]
 
 
 **Running**  
